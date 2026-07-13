@@ -1,14 +1,2 @@
 it is a project for gitcoin passport
-second commit
-third commit
-.......
-hello today Im happy
-push it 333
-git...s
-go/come commite...
-say hi to crypto.....
-only commit
-im tired 
-when bbullrun ?....
-caw caw caw
 push folder to file 
