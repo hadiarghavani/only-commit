@@ -1,8 +1,12 @@
 it is a project for gitcoin passport
 push folder to file 
 git push ....
-push push git.......
+push push git.
 push
+
+
 git add .
 git commit -m "first commit"
 git push
+
+...
