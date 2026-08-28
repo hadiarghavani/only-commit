@@ -10,4 +10,3 @@ git commit -m "first commit"
 git push
 
 push it 
-......
