@@ -8,10 +8,3 @@ push
 git add .
 git commit -m "first commit"
 git push
-
-push it 
-git add .
-git commit -m "first commit"
-git pushgit add .
-git commit -m "first commit"
-git push
